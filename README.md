@@ -28,7 +28,7 @@ Execute the program using runserver command.
 <!DOCTYPE html>
 <html>
 <head>
-    <title>SLOT TIME TABLE - John Wilfred Thomas J W , reg no:212224040141</title>
+    <title>SLOT TIME TABLE - MOHAMMED HAMZA M , reg no:212224230167</title>
     <style>
         table {
             border-collapse: collapse;
@@ -64,7 +64,7 @@ Execute the program using runserver command.
 <body>
     <img src="logo.png">
     <div class="center-text">
-        <p><strong>SLOT TIME TABLE - John Wilfred Thomas J W (212224040141) </strong></p>
+        <p><strong>SLOT TIME TABLE - MOHAMMED HAMZA (212224230167) </strong></p>
     </div>
     <table>
         <tr>
